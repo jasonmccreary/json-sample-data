@@ -1,0 +1,22 @@
+{
+    "object": {
+        "foo": "bar",
+        "baz": "qux"
+    },
+    "empty_object": {},
+    "nested_object": {
+        "foo": {
+            "bar": "baz"
+        }
+    },
+    "array": ["foo", "bar", "baz"],
+    "empty_array": [],
+    "nested_array": ["foo", ["bar", "baz"]],
+    "string": "String value.",
+    "empty_string": "",
+    "number": 134.55,
+    "empty_number": 0,
+    "true_value": true,
+    "false_value": false,
+    "null_value": null
+}
